@@ -1,6 +1,6 @@
 # Amazon Vine Analysis:credit_card::bar_chart:
 
-## Overview of the analysis:squirrel:
+## Overview of the analysis:shipit:
 The purpose of this challenge was to help BigMarket contribute their big data analysis to a client by the name of $ellby. The client is about to release a large amount of catalogs for his clients, and the credibility of the prices is going to be set by the reviews of the clients that have bought those items of the catalogs. Nevertheless, the reviews are in words not numbers, that is what differenciates this challenge to the others, by the help of NLP and Machine Learning the reviews were counted and filtered successfully. 
 
 Now for this challenge, the services of BigMarket was now hired by Amazon to analyse their reviews. A random set of data was chosen and an exhaustive analysis was performed with the dataset to carry on the task. The results were as follows.
